@@ -142,6 +142,19 @@ Final register state: `x1=5, x2=5, x4=10, x5=10, x6=5` — verified with no spur
 
 ---
 
+## Implementation Screenshots
+
+### Timing Summary
+![Timing](docs/timing_summary.png)
+
+### Power Analysis
+![Power](docs/power_summary.png)
+
+### Resource Utilization
+![Utilization](docs/utilization.png)
+
+
+
 ## Author
 
 **Hitesh Kumar M P**  
