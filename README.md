@@ -1,4 +1,4 @@
-#Power-Efficient RV32I Pipelined Processor
+# Power-Efficient RV32I Pipelined Processor
 
 A fully verified, five-stage RV32I pipelined processor implemented on the Xilinx Zynq xc7z020clg484-1 FPGA. HEPTA-CORE co-integrates two micro-architectural optimizations — early branch resolution in the ID stage and BUFGCE-based per-stage clock gating — achieving a 50% branch penalty reduction and ~50% dynamic power reduction over a conventional EX-stage baseline.
 
